@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084332704128",
+    "project_id": "misml-4d5b0",
+    "storage_bucket": "misml-4d5b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084332704128:android:e0fd70432219a957ca0165",
+        "android_client_info": {
+          "package_name": "com.misapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084332704128-vvuo3qhftfe10onuomdml8pk3jj4imih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqqnCa3AYI79KkajekDZoNltdlq2FIwq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084332704128-vvuo3qhftfe10onuomdml8pk3jj4imih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
